@@ -4,8 +4,8 @@
 
 ### Linkedin
 
-<img aling="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-www.linkedin.com/in/tarcísio-andrade-347aaa124
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](www.linkedin.com/in/tarcísio-andrade-347aaa124)
+
 
 ### Tecnologias que estou trabalhando e aprendendo:
 
